@@ -1,0 +1,73 @@
+baseline,lr=1e-3: 
+    Dev acc: 70.95  
+    Dev fscore(p/r/f): (82.24/73.41/77.58)
+    Dev acc: 78.4358        
+    Dev fscore(p/r/f): (8087/81.6475/83.3422)
+
+baseline-crf,lr=1e-3:  
+    Dev acc: 72.51
+    Dev fscore(p/r/f): (83.92/74.56/78.96)
+
+baseline-crf,lr=1e-4: 
+    Dev acc: 71.17  
+    Dev fscore(p/r/f): (80.50/74.03/77.13)
+
+##################
+
+bert,lr=5e-6:
+    Dev acc: 78.77  
+    Dev fscore(p/r/f): (84.74/81.65/83.17)
+
+bert,lr=1e-5:   
+    Dev acc: 79.22  
+    Dev fscore(p/r/f): (84.75/82.27/83.49)
+
+bert,lr=2e-5
+    Dev acc: 79.22  
+    Dev fscore(p/r/f): (84.61/81.96/83.26)
+
+bert,lr=5e-5
+    Dev loss: 0.79       
+    Dev acc: 78.21  Dev fscore(p/r/f): (83.91/81.02/82.44)
+
+ ###############
+
+bert-crf:
+    Dev acc: 79.22  
+    Dev fscore(p/r/f): (83.62/81.44/82.51)
+
+############
+bert-models0-cl(lr=1e-5): 
+    Dev acc: 78.21  
+    Dev fscore(p/r/f): (83.62/81.44/82.51)
+
+    Dev acc: 79.44  
+    Dev fscore(p/r/f): (83.78/82.38/83.07)
+
+###########
+roberta,lr=1e-5:
+    Dev acc: 78.10  
+    Dev fscore(p/r/f): (84.02/80.60/82.28)
+
+roberta-crf,lr=1e-5:
+    Dev acc: 78.32  
+    Dev fscore(p/r/f): (82.94/81.13/82.02)
+
+macbert,lr=1e-5:
+    Dev acc: 78.10  
+    Dev fscore(p/r/f): (81.80/80.60/81.20)
+
+macbert-crf,lr=1e-5:
+    Dev acc: 78.2123        
+    Dev fscore(p/r/f): (82.9424/81.1262/82.0242)
+
+bert-manual,lr=1e-5
+    Dev acc: 95.0838        
+    Dev fscore(p/r/f): (95.5670/96.6632/96.1120)
+
+bert-manual-train_augment,lr=1e-5
+    Dev acc: 95.9777        
+    Dev fscore(p/r/f): (96.1895/97.3931/96.7876)
+
+bert-manual-train_add,lr=1e-5
+Dev acc: 95.20  Dev fscore(p/r/f): (95.18/96.87/96.02)

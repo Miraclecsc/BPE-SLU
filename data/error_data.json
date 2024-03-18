@@ -1,0 +1,2268 @@
+[
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "到(unknown)路派出所",
+            "asr_1best": "到(unknown)路派出所",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "派出所"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "途经万达广场",
+            "asr_1best": "途经万达广场",
+            "semantic": [
+                [
+                    "inform",
+                    "途经点名称",
+                    "万达广场"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "(side)(unknown)，开始导航",
+            "asr_1best": "(side)(unknown)，开始导航",
+            "semantic": []
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "请你导航给我导的平阴平阴新一中少走高速",
+            "asr_1best": "请你导航给我导的平阴平阴新一中少走高速",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "平阴平阴新一中"
+                ],
+                [
+                    "inform",
+                    "路线偏好",
+                    "少走高速"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "(side)这是第一个是吧，第一个",
+            "asr_1best": "(side)这是第一个是吧，第一个",
+            "semantic": [
+                [
+                    "inform",
+                    "序列号",
+                    "第一个"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "平阴平阴新一中少走高速",
+            "asr_1best": "平阴平阴新一中少走高速",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "平阴平阴新一中"
+                ],
+                [
+                    "inform",
+                    "路线偏好",
+                    "少走高速"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "重新给我导航导到呃",
+            "asr_1best": "重新给我导航导到呃",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "重新导航"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "哪里有吃饭的",
+            "asr_1best": "哪里有吃饭的",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "吃饭"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "随便来一个",
+            "asr_1best": "随便来一个",
+            "semantic": [
+                [
+                    "inform",
+                    "value",
+                    "dontcare"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "(unknown)我把这个导航系统关掉",
+            "asr_1best": "(unknown)我把这个导航系统关掉",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "关"
+                ],
+                [
+                    "inform",
+                    "对象",
+                    "导航"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "帮我导航去去无锡天一高架桥不走高速",
+            "asr_1best": "帮我导航去去无锡天一高架桥不走高速",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "无锡天一高架桥"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "路线偏好",
+                    "不走高速"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "(side)(unknown)导航，我要到鲅鱼圈",
+            "asr_1best": "(side)(unknown)导航，我要到鲅鱼圈",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "鲅鱼圈"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航到济南西收费站走下道不走高速",
+            "asr_1best": "导航到济南西收费站走下道不走高速",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "路线偏好",
+                    "不走高速"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "济南西收费站走下道"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "去梅河口梅河大街走二零二线不走高速",
+            "asr_1best": "去梅河口梅河大街走二零二线不走高速",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "梅河口梅河大街"
+                ],
+                [
+                    "inform",
+                    "路线偏好",
+                    "不走高速"
+                ],
+                [
+                    "inform",
+                    "途经点名称",
+                    "二零二线"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "帮我导航到菏泽市维吾尔(unknown)服务中心",
+            "asr_1best": "帮我导航到菏泽市维吾尔(unknown)服务中心",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "菏泽市维吾尔服务中心"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "走璧山",
+            "asr_1best": "走璧山",
+            "semantic": [
+                [
+                    "inform",
+                    "途经点名称",
+                    "璧山"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导回导航到安徽省蚌埠市怀远县包集镇",
+            "asr_1best": "导回导航到安徽省蚌埠市怀远县包集镇",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "安徽省蚌埠市怀远县包集镇"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "麻烦到世纪城m_k_ktv",
+            "asr_1best": "麻烦到世纪城m_k_ktv",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "世纪城m k ktv"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "不去了",
+            "asr_1best": "不去了",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "退出"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "走三桥怎么样啊",
+            "asr_1best": "走三桥怎么样啊",
+            "semantic": [
+                [
+                    "inform",
+                    "途经点名称",
+                    "三桥"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "随便",
+            "asr_1best": "随便",
+            "semantic": [
+                [
+                    "inform",
+                    "value",
+                    "dontcare"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "随便",
+            "asr_1best": "随便",
+            "semantic": [
+                [
+                    "inform",
+                    "value",
+                    "dontcare"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航导航南通龙虾王",
+            "asr_1best": "导航导航南通龙虾王",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "南通龙虾王"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "去政和县走老路",
+            "asr_1best": "去政和县走老路",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "政和县"
+                ],
+                [
+                    "inform",
+                    "途经点名称",
+                    "老路"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "我们要到县城的温泉去查龙温泉",
+            "asr_1best": "我们要到县城的温泉去查龙温泉",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "查龙温泉"
+                ],
+                [
+                    "inform",
+                    "终点修饰",
+                    "县城"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "那一站下一页",
+            "asr_1best": "那一站下一页",
+            "semantic": [
+                [
+                    "inform",
+                    "页码",
+                    "下一页"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "不导航",
+            "asr_1best": "不导航",
+            "semantic": [
+                [
+                    "deny",
+                    "操作",
+                    "导航"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "再下一页下一页",
+            "asr_1best": "再下一页下一页",
+            "semantic": [
+                [
+                    "inform",
+                    "页码",
+                    "下一页"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "介休金泉书院介休北介休心学到金泉书院",
+            "asr_1best": "介休金泉书院介休北介休心学到金泉书院",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "金泉书院"
+                ],
+                [
+                    "inform",
+                    "起点名称",
+                    "介休金泉书院介休北介休心学"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "东平到导航到东平路口机荷高速的东平出口",
+            "asr_1best": "东平到导航到东平路口机荷高速的东平出口",
+            "semantic": [
+                [
+                    "inform",
+                    "起点名称",
+                    "东平"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点修饰",
+                    "东平路口机荷高速"
+                ],
+                [
+                    "inform",
+                    "终点目标",
+                    "东平出口"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "(side)直接上高速,呃呃麦积山风景区(side),售票处",
+            "asr_1best": "(side)直接上高速,呃呃麦积山风景区(side),售票处",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "麦积山风景区售票处"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "附近最好玩的地方",
+            "asr_1best": "附近最好玩的地方",
+            "semantic": [
+                [
+                    "inform",
+                    "请求类型",
+                    "周边"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "搜索最近的药房",
+            "asr_1best": "搜索最近的药房",
+            "semantic": [
+                [
+                    "inform",
+                    "请求类型",
+                    "最近"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "搜索"
+                ],
+                [
+                    "inform",
+                    "poi目标",
+                    "药店"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "将那个到吉林(unknown)高速路口",
+            "asr_1best": "将那个到吉林(unknown)高速路口",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "吉林高速路口"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航结束关闭",
+            "asr_1best": "导航结束关闭",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "关闭"
+                ],
+                [
+                    "inform",
+                    "对象",
+                    "导航"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "格兰(unknown)国际大酒店",
+            "asr_1best": "格兰(unknown)国际大酒店",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "格兰国际大酒店"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航到最近的加油站",
+            "asr_1best": "导航到最近的加油站",
+            "semantic": [
+                [
+                    "inform",
+                    "请求类型",
+                    "最近"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "加油站"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "一个第一个",
+            "asr_1best": "一个第一个",
+            "semantic": [
+                [
+                    "inform",
+                    "序列号",
+                    "第一个"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "附近的酒店",
+            "asr_1best": "附近的酒店",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "酒店"
+                ],
+                [
+                    "inform",
+                    "请求类型",
+                    "附近"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航导了鸿宝c区",
+            "asr_1best": "导航导了鸿宝c区",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "了鸿宝c区"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "城开请帮我导航到城开景祥佳园",
+            "asr_1best": "城开请帮我导航到城开景祥佳园",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "城开景祥佳园"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "去掉导航错了",
+            "asr_1best": "去掉导航错了",
+            "semantic": [
+                [
+                    "deny",
+                    "对象",
+                    "导航"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "返回上一页",
+            "asr_1best": "返回上一页",
+            "semantic": [
+                [
+                    "inform",
+                    "页码",
+                    "上一页"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "返回"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "哪儿都不去了",
+            "asr_1best": "哪儿都不去了",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "退出"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "去鄂城江碧路打开地图去鄂鄂城江碧路",
+            "asr_1best": "去鄂城江碧路打开地图去鄂鄂城江碧路",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "鄂鄂城江碧路"
+                ],
+                [
+                    "inform",
+                    "对象",
+                    "地图"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "打开"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "我要去万(unknown)达酒店",
+            "asr_1best": "我要去万(unknown)达酒店",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "万达酒店"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航到最近的(unknown)粥馆",
+            "asr_1best": "导航到最近的(unknown)粥馆",
+            "semantic": [
+                [
+                    "inform",
+                    "请求类型",
+                    "最近"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "poi目标",
+                    "粥馆"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "(unknown)近的",
+            "asr_1best": "(unknown)近的",
+            "semantic": [
+                [
+                    "inform",
+                    "请求类型",
+                    "最近"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "找到上饶市的国际酒店",
+            "asr_1best": "找到上饶市的国际酒店",
+            "semantic": [
+                [
+                    "inform",
+                    "poi修饰",
+                    "上饶市"
+                ],
+                [
+                    "inform",
+                    "poi目标",
+                    "国际酒店"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "找"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "我要去(unknown)随州市双河镇",
+            "asr_1best": "我要去(unknown)随州市双河镇",
+            "semantic": []
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "青年路路况",
+            "asr_1best": "青年路路况",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "青年路"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "晋江s_m广场",
+            "asr_1best": "晋江s_m广场",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "晋江s m广场"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航到贵阳(unknown)路",
+            "asr_1best": "导航到贵阳(unknown)路",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "贵阳路"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "随便",
+            "asr_1best": "随便",
+            "semantic": [
+                [
+                    "inform",
+                    "value",
+                    "dontcare"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航到赤水市(unknown)汽车装饰",
+            "asr_1best": "导航到赤水市(unknown)汽车装饰",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "赤水市汽车装饰"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航涟水不走高速",
+            "asr_1best": "导航涟水不走高速",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "涟水"
+                ],
+                [
+                    "inform",
+                    "路线偏好",
+                    "不走高速"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "去附近最近的建设银行",
+            "asr_1best": "去附近最近的建设银行",
+            "semantic": [
+                [
+                    "inform",
+                    "请求类型",
+                    "附近"
+                ],
+                [
+                    "inform",
+                    "终点目标",
+                    "建设银行"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "请播报当前具体位置",
+            "asr_1best": "请播报当前具体位置",
+            "semantic": [
+                [
+                    "inform",
+                    "对象",
+                    "位置"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "播报"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "去红椿不走高速",
+            "asr_1best": "去红椿不走高速",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "红椿"
+                ],
+                [
+                    "inform",
+                    "路线偏好",
+                    "不走高速"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "不走高速",
+            "asr_1best": "不走高速",
+            "semantic": [
+                [
+                    "inform",
+                    "路线偏好",
+                    "不走高速"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "退出退出",
+            "asr_1best": "退出退出",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "退出"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "(unknown)福海县的乌伦古湖",
+            "asr_1best": "(unknown)福海县的乌伦古湖",
+            "semantic": [
+                [
+                    "inform",
+                    "poi目标",
+                    "乌伦古湖"
+                ],
+                [
+                    "inform",
+                    "poi修饰",
+                    "福海县"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "附近五金店",
+            "asr_1best": "附近五金店",
+            "semantic": [
+                [
+                    "inform",
+                    "poi目标",
+                    "五金店"
+                ],
+                [
+                    "inform",
+                    "请求类型",
+                    "附近"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航到最近的搜最近的加油站",
+            "asr_1best": "导航到最近的搜最近的加油站",
+            "semantic": [
+                [
+                    "inform",
+                    "请求类型",
+                    "最近"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "搜"
+                ],
+                [
+                    "inform",
+                    "终点目标",
+                    "加油站"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "这个停车场远了近的地方有停车场吗",
+            "asr_1best": "这个停车场远了近的地方有停车场吗",
+            "semantic": [
+                [
+                    "inform",
+                    "请求类型",
+                    "最近"
+                ],
+                [
+                    "inform",
+                    "poi名称",
+                    "停车场"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "停车场找个停车场最近的停车场",
+            "asr_1best": "停车场找个停车场最近的停车场",
+            "semantic": [
+                [
+                    "inform",
+                    "请求类型",
+                    "最近"
+                ],
+                [
+                    "inform",
+                    "poi目标",
+                    "停车场"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "找"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "不去了",
+            "asr_1best": "不去了",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "退出"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "去贵清山导航开始",
+            "asr_1best": "去贵清山导航开始",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "贵清山"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "导航开始"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "航义乌佛堂镇",
+            "asr_1best": "航义乌佛堂镇",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "义乌佛堂镇"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "第一条路线开始导航",
+            "asr_1best": "第一条路线开始导航",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "开始导航"
+                ],
+                [
+                    "inform",
+                    "序列号",
+                    "第一条"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "不导航",
+            "asr_1best": "不导航",
+            "semantic": [
+                [
+                    "deny",
+                    "操作",
+                    "导航"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "这里离高速口还有多少公里呀",
+            "asr_1best": "这里离高速口还有多少公里呀",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "高速口"
+                ],
+                [
+                    "inform",
+                    "起点名称",
+                    "这里"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "我要去开封市尉氏县洧川镇(unknown)村二组何腾飞他家",
+            "asr_1best": "我要去开封市尉氏县洧川镇(unknown)村二组何腾飞他家",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "开封市尉氏县洧川镇村二组何腾飞他家"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航导航打开",
+            "asr_1best": "导航导航打开",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "打开"
+                ],
+                [
+                    "inform",
+                    "对象",
+                    "导航"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "方州幼儿园到青阳",
+            "asr_1best": "方州幼儿园到青阳",
+            "semantic": [
+                [
+                    "inform",
+                    "起点名称",
+                    "方州幼儿园"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "青阳"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "恩施去恩施",
+            "asr_1best": "恩施去恩施",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "恩施"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "三",
+            "asr_1best": "三",
+            "semantic": []
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "到黄(unknown)高陌乡",
+            "asr_1best": "到黄(unknown)高陌乡",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "黄高陌乡"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "我要到五区到平朔五区市场",
+            "asr_1best": "我要到五区到平朔五区市场",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "五区"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "哪个也不想去了",
+            "asr_1best": "哪个也不想去了",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "退出"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "请导航到小池镇(unknown)村",
+            "asr_1best": "请导航到小池镇(unknown)村",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "小池镇村"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "我我不去了再见",
+            "asr_1best": "我我不去了再见",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "退出"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "(unknown)市黔西一中(robot)高德地图持续为您导航",
+            "asr_1best": "(unknown)市黔西一中(robot)高德地图持续为您导航",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "市黔西一中"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "上班",
+            "asr_1best": "上班",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "公司"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "定位锦州市天成典雅",
+            "asr_1best": "定位锦州市天成典雅",
+            "semantic": [
+                [
+                    "inform",
+                    "对象",
+                    "定位"
+                ],
+                [
+                    "inform",
+                    "poi名称",
+                    "锦州市天成典雅"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "帮我定位到宜兴紫薇苑",
+            "asr_1best": "帮我定位到宜兴紫薇苑",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "宜兴紫薇苑"
+                ],
+                [
+                    "inform",
+                    "请求类型",
+                    "定位"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "不去",
+            "asr_1best": "不去",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "退出"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "保山市收费站白",
+            "asr_1best": "保山市收费站白",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "保山市收费站"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "帮我去附近的商场",
+            "asr_1best": "帮我去附近的商场",
+            "semantic": [
+                [
+                    "inform",
+                    "poi目标",
+                    "商场"
+                ],
+                [
+                    "inform",
+                    "请求类型",
+                    "附近"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "(unknown)导航到江中路跟王沙路交叉口",
+            "asr_1best": "(unknown)导航到江中路跟王沙路交叉口",
+            "semantic": []
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "第一个嘛",
+            "asr_1best": "第一个嘛",
+            "semantic": [
+                [
+                    "inform",
+                    "序列号",
+                    "第一个"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "第第一个",
+            "asr_1best": "第第一个",
+            "semantic": [
+                [
+                    "inform",
+                    "序列号",
+                    "第一个"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "去桑根达来(unknown)酒店(unknown)",
+            "asr_1best": "去桑根达来(unknown)酒店(unknown)",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "桑根达来酒店"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "第一个啊煤矿",
+            "asr_1best": "第一个啊煤矿",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "煤矿"
+                ],
+                [
+                    "inform",
+                    "序列号",
+                    "第一个"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航到银川水管处不用导航(unknown)",
+            "asr_1best": "导航到银川水管处不用导航(unknown)",
+            "semantic": []
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航到温江区光华国际西镇河街选择最快的路线",
+            "asr_1best": "导航到温江区光华国际西镇河街选择最快的路线",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "路线偏好",
+                    "最快"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "温江区光华国际西镇河街"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "不要导航",
+            "asr_1best": "不要导航",
+            "semantic": [
+                [
+                    "deny",
+                    "操作",
+                    "导航"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "关闭导导航",
+            "asr_1best": "关闭导导航",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "关闭"
+                ],
+                [
+                    "inform",
+                    "对象",
+                    "导航"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "停止停止",
+            "asr_1best": "停止停止",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "停止"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "关闭简易导航",
+            "asr_1best": "关闭简易导航",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "关闭"
+                ],
+                [
+                    "inform",
+                    "对象",
+                    "简易导航"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "嗯导航去黄寨走幺零八线",
+            "asr_1best": "嗯导航去黄寨走幺零八线",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "黄寨"
+                ],
+                [
+                    "inform",
+                    "途经点名称",
+                    "幺零八线"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "退出高德地图",
+            "asr_1best": "退出高德地图",
+            "semantic": [
+                [
+                    "inform",
+                    "对象",
+                    "高德地图"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "退出"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航到长光路上哪边有卖风筝店",
+            "asr_1best": "导航到长光路上哪边有卖风筝店",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "长光路"
+                ],
+                [
+                    "inform",
+                    "poi名称",
+                    "卖风筝店"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "搜索视频",
+            "asr_1best": "搜索视频",
+            "semantic": []
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "走莱州西关十字",
+            "asr_1best": "走莱州西关十字",
+            "semantic": [
+                [
+                    "inform",
+                    "途经点名称",
+                    "莱州西关十字"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航搜索(unknown)亳州火车站",
+            "asr_1best": "导航搜索(unknown)亳州火车站",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "搜索"
+                ],
+                [
+                    "inform",
+                    "poi名称",
+                    "亳州火车站"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "(side)你妈的逼呀(robot)开始导航",
+            "asr_1best": "(side)你妈的逼呀(robot)开始导航",
+            "semantic": []
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "你好小明我要去广州塔走高速",
+            "asr_1best": "你好小明我要去广州塔走高速",
+            "semantic": [
+                [
+                    "inform",
+                    "路线偏好",
+                    "走高速"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "广州塔"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "(side)(dialect)，我到大鹏新区华强南路(side)(dialect)",
+            "asr_1best": "(side)(dialect)，我到大鹏新区华强南路(side)(dialect)",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "鹏新区华强南路"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "(unknown)附近的快捷酒店",
+            "asr_1best": "(unknown)附近的快捷酒店",
+            "semantic": [
+                [
+                    "inform",
+                    "poi目标",
+                    "快捷酒店"
+                ],
+                [
+                    "inform",
+                    "poi修饰",
+                    "附近"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "哪个也不去再见",
+            "asr_1best": "哪个也不去再见",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "退出"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "帮我查一下东兴有什有哪些景点",
+            "asr_1best": "帮我查一下东兴有什有哪些景点",
+            "semantic": [
+                [
+                    "inform",
+                    "poi目标",
+                    "景点"
+                ],
+                [
+                    "inform",
+                    "poi修饰",
+                    "东兴"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "查"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "去(unknown)大乡(unknown)有限公司(side)",
+            "asr_1best": "去(unknown)大乡(unknown)有限公司(side)",
+            "semantic": [
+                [
+                    "inform",
+                    "终点名称",
+                    "大乡有限公司"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "在这个附近找一个(unknown)",
+            "asr_1best": "在这个附近找一个(unknown)",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "找"
+                ],
+                [
+                    "inform",
+                    "请求类型",
+                    "附近"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "东阳商街导航四",
+            "asr_1best": "东阳商街导航四",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "东阳商街"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "宁夏(unknown)公司第八分公司",
+            "asr_1best": "宁夏(unknown)公司第八分公司",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "宁夏公司第八分公司"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "(unknown)路",
+            "asr_1best": "(unknown)路",
+            "semantic": []
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "上东一号",
+            "asr_1best": "上东一号",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "上东一号"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "世纪城的伊春国际",
+            "asr_1best": "世纪城的伊春国际",
+            "semantic": [
+                [
+                    "inform",
+                    "poi目标",
+                    "伊春国际"
+                ],
+                [
+                    "inform",
+                    "poi修饰",
+                    "世纪城"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "都不去",
+            "asr_1best": "都不去",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "退出"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "找一下海尚国际同安区的(unknown)路",
+            "asr_1best": "找一下海尚国际同安区的(unknown)路",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "找"
+                ],
+                [
+                    "inform",
+                    "poi修饰",
+                    "海尚国际同安区"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "继续上次导航",
+            "asr_1best": "继续上次导航",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "继续导航"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "是椰海雅苑不是银海雅苑你这个笨蛋",
+            "asr_1best": "是椰海雅苑不是银海雅苑你这个笨蛋",
+            "semantic": [
+                [
+                    "inform",
+                    "poi名称",
+                    "椰海雅苑"
+                ],
+                [
+                    "deny",
+                    "poi名称",
+                    "银海雅苑"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "附近附近综合商店",
+            "asr_1best": "附近附近综合商店",
+            "semantic": [
+                [
+                    "inform",
+                    "poi目标",
+                    "综合商店"
+                ],
+                [
+                    "inform",
+                    "请求类型",
+                    "附近"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "退出退出",
+            "asr_1best": "退出退出",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "退出"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航到家里",
+            "asr_1best": "导航到家里",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "家"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "花果园请导航",
+            "asr_1best": "花果园请导航",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "花果园"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "退出(unknown)",
+            "asr_1best": "退出(unknown)",
+            "semantic": []
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "搜索大统华附近停车",
+            "asr_1best": "搜索大统华附近停车",
+            "semantic": [
+                [
+                    "inform",
+                    "poi目标",
+                    "停车"
+                ],
+                [
+                    "inform",
+                    "poi修饰",
+                    "大统华"
+                ],
+                [
+                    "inform",
+                    "请求类型",
+                    "附近"
+                ],
+                [
+                    "inform",
+                    "操作",
+                    "搜索"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航到南部嘴东码头嘴东(unknown)嘴东码头",
+            "asr_1best": "导航到南部嘴东码头嘴东(unknown)嘴东码头",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "南部嘴东码头嘴东嘴东码头"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "我要去附近公共厕所",
+            "asr_1best": "我要去附近公共厕所",
+            "semantic": [
+                [
+                    "inform",
+                    "请求类型",
+                    "周边"
+                ],
+                [
+                    "inform",
+                    "终点目标",
+                    "公共厕所"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "走大渡口",
+            "asr_1best": "走大渡口",
+            "semantic": [
+                [
+                    "inform",
+                    "途经点名称",
+                    "大渡口"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航到星罗城导航到星罗城",
+            "asr_1best": "导航到星罗城导航到星罗城",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ],
+                [
+                    "inform",
+                    "终点名称",
+                    "星罗城"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "返回返回",
+            "asr_1best": "返回返回",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "返回"
+                ]
+            ]
+        }
+    ],
+    [
+        {
+            "utt_id": 1,
+            "manual_transcript": "导航去岭",
+            "asr_1best": "导航去岭",
+            "semantic": [
+                [
+                    "inform",
+                    "操作",
+                    "导航"
+                ]
+            ]
+        }
+    ]
+]
